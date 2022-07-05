@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+#top-banner {
+    background-image: url(images/bg.jpg);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 100px;
+}
+
+.link-button {
+    text-decoration: none;
+    color: white;
+    background-color: orangered;
+    padding: 10px 25px;
+    border-radius: 5px;
+
+}
+
+.banner-text {
+    color: aqua;
+}
