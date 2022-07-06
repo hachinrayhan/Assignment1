@@ -22,21 +22,29 @@ body {
 }
 
 .banner-text {
-    color: wheat;
+    color: rgb(255, 183, 0);
+    font-weight: 900;
 }
 
 #donate-today {
     text-align: center;
 }
 
-.span {
-    background-color: aqua;
-    padding: 10px 5px;
+
+ul li {
+    list-style: none;
+    display: inline;
+
+}
+
+.list-item {
+    background-color: rgb(231, 231, 231);
+    padding: 15px 15px;
     border-radius: 5px;
 }
 
-#unique-span {
-    padding: 10px 5px;
+#unique-list {
+    padding: 15px 15px;
     border: 1px solid red;
     border-radius: 5px;
     background-color: pink;
@@ -104,15 +112,15 @@ body {
 }
 
 #email {
-    display: flex;
     background-color: rgb(245, 212, 169);
     padding: 50px;
-    margin-left: 30%;
-    margin-right: 30%;
+    width: 40%;
+    margin: auto;
 }
 
 .email-box {
-    padding: 8px;
+    border: none;
+    padding: 14px;
 }
 
 footer {
