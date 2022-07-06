@@ -5,7 +5,7 @@ body {
 }
 
 #top-banner {
-    background-image: url(images/flood4.jpg);
+    background-image: url(Images/flood4.jpg);
     background-size: 100% auto;
     background-repeat: no-repeat;
     text-align: center;
@@ -81,21 +81,21 @@ ul li {
 
 #food-for-family {
     background-color: rgb(234, 243, 240);
-    background-image: url(images/food.png);
+    background-image: url(Images/food.png);
     background-position: 5% 5%;
     background-repeat: no-repeat;
 }
 
 #shelter-for-family {
     background-color: rgb(247, 211, 217);
-    background-image: url(images/shelter.png);
+    background-image: url(Images/shelter.png);
     background-position: 5% 5%;
     background-repeat: no-repeat;
 }
 
 #education-for-child {
     background-color: rgb(245, 212, 169);
-    background-image: url(images/Frame-1.png);
+    background-image: url(Images/Frame-1.png);
     background-position: 5% 5%;
     background-repeat: no-repeat;
 }
