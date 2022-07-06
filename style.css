@@ -85,3 +85,47 @@ body {
     background-image: url(images/Frame-1.png);
     background-repeat: no-repeat;
 }
+
+#how-to-contribute {
+    display: flex;
+    padding: 100px;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.updates {
+    text-align: center;
+}
+
+#email {
+    display: flex;
+    background-color: rgb(245, 212, 169);
+    padding: 50px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.email-box {
+    padding: 8px;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    padding: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+footer h1 {
+    color: red;
+}
+
+footer p {
+    color: white;
+}
