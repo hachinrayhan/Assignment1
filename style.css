@@ -50,3 +50,38 @@ body {
 #hor-row {
     width: 60%;
 }
+
+.donation-plan {
+    text-align: center;
+}
+
+#three-plans {
+    display: flex;
+
+}
+
+.plan-item {
+    text-align: left;
+    width: 300px;
+    height: 220px;
+    padding: 45px;
+    margin: 30px;
+}
+
+#food-for-family {
+    background-color: rgb(234, 243, 240);
+    background-image: url(images/food.png);
+    background-repeat: no-repeat;
+}
+
+#shelter-for-family {
+    background-color: rgb(247, 211, 217);
+    background-image: url(images/shelter.png);
+    background-repeat: no-repeat;
+}
+
+#education-for-child {
+    background-color: rgb(245, 212, 169);
+    background-image: url(images/Frame-1.png);
+    background-repeat: no-repeat;
+}
