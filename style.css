@@ -5,7 +5,7 @@ body {
 }
 
 #top-banner {
-    background-image: url(images/bg.jpg);
+    background-image: url(images/flood4.jpg);
     background-size: 100% auto;
     background-repeat: no-repeat;
     text-align: center;
@@ -22,8 +22,10 @@ body {
 }
 
 .banner-text {
-    color: rgb(255, 183, 0);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
     font-weight: 900;
+
 }
 
 #donate-today {
@@ -73,25 +75,28 @@ ul li {
     text-align: left;
     width: 300px;
     height: 220px;
-    padding: 45px;
+    padding: 50px;
     margin: 30px;
 }
 
 #food-for-family {
     background-color: rgb(234, 243, 240);
     background-image: url(images/food.png);
+    background-position: 5% 5%;
     background-repeat: no-repeat;
 }
 
 #shelter-for-family {
     background-color: rgb(247, 211, 217);
     background-image: url(images/shelter.png);
+    background-position: 5% 5%;
     background-repeat: no-repeat;
 }
 
 #education-for-child {
     background-color: rgb(245, 212, 169);
     background-image: url(images/Frame-1.png);
+    background-position: 5% 5%;
     background-repeat: no-repeat;
 }
 
