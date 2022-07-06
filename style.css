@@ -22,5 +22,31 @@ body {
 }
 
 .banner-text {
-    color: aqua;
+    color: wheat;
+}
+
+#donate-today {
+    text-align: center;
+}
+
+.span {
+    background-color: aqua;
+    padding: 10px 5px;
+    border-radius: 5px;
+}
+
+#unique-span {
+    padding: 10px 5px;
+    border: 1px solid red;
+    border-radius: 5px;
+    background-color: pink;
+    color: red;
+}
+
+.input {
+    border: none;
+}
+
+#hor-row {
+    width: 60%;
 }
